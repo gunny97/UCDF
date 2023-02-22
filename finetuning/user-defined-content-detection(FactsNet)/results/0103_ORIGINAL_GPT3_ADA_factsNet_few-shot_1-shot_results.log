@@ -1,0 +1,2328 @@
+content_name: las-vegas-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/las-vegas-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/cities/query_las-vegas-facts.csv
+f1-score: 0.4459
+accuracy: 0.5233
+recall: 0.3837
+precision: 0.5323
+====================================================================================================
+content_name: barcelona-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/barcelona-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/cities/query_barcelona-facts.csv
+f1-score: 0.6269
+accuracy: 0.5562
+recall: 0.7412
+precision: 0.5431
+====================================================================================================
+content_name: city-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/city-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/cities/query_city-facts.csv
+f1-score: 0.3158
+accuracy: 0.4348
+recall: 0.2598
+precision: 0.4024
+====================================================================================================
+content_name: london-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/london-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/cities/query_london-facts.csv
+f1-score: 0.6154
+accuracy: 0.6296
+recall: 0.5926
+precision: 0.64
+====================================================================================================
+content_name: berlin-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/berlin-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/cities/query_berlin-facts.csv
+f1-score: 0.5393
+accuracy: 0.5941
+recall: 0.4706
+precision: 0.6316
+====================================================================================================
+content_name: new-york-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/new-york-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/cities/query_new-york-facts.csv
+f1-score: 0.8082
+accuracy: 0.7911
+recall: 0.8761
+precision: 0.75
+====================================================================================================
+content_name: galapagos-islands-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/galapagos-islands-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/cities/query_galapagos-islands-facts.csv
+f1-score: 0.7969
+accuracy: 0.7591
+recall: 0.9455
+precision: 0.6887
+====================================================================================================
+content_name: pompeii-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/pompeii-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/cities/query_pompeii-facts.csv
+f1-score: 0.6667
+accuracy: 0.7054
+recall: 0.5893
+precision: 0.7674
+====================================================================================================
+content_name: paris-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/paris-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/cities/query_paris-facts.csv
+f1-score: 0.7027
+accuracy: 0.6181
+recall: 0.9028
+precision: 0.5752
+====================================================================================================
+content_name: tokyo-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/tokyo-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/cities/query_tokyo-facts.csv
+f1-score: 0.6449
+accuracy: 0.5566
+recall: 0.8018
+precision: 0.5394
+====================================================================================================
+content_name: venice-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/venice-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/cities/query_venice-facts.csv
+f1-score: 0.6752
+accuracy: 0.5487
+recall: 0.9298
+precision: 0.53
+====================================================================================================
+content_name: costa-rica-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/costa-rica-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_costa-rica-facts.csv
+f1-score: 0.4953
+accuracy: 0.4375
+recall: 0.5521
+precision: 0.4492
+====================================================================================================
+content_name: ancient-egypt-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/ancient-egypt-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_ancient-egypt-facts.csv
+f1-score: 0.5809
+accuracy: 0.495
+recall: 0.7
+precision: 0.4965
+====================================================================================================
+content_name: nigeria-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/nigeria-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_nigeria-facts.csv
+f1-score: 0.3503
+accuracy: 0.4041
+recall: 0.3196
+precision: 0.3875
+====================================================================================================
+content_name: pakistan-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/pakistan-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_pakistan-facts.csv
+f1-score: 0.4876
+accuracy: 0.5402
+recall: 0.4375
+precision: 0.5506
+====================================================================================================
+content_name: ancient-rome-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/ancient-rome-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_ancient-rome-facts.csv
+f1-score: 0.2647
+accuracy: 0.2966
+recall: 0.2527
+precision: 0.2778
+====================================================================================================
+content_name: panama-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/panama-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_panama-facts.csv
+f1-score: 0.3231
+accuracy: 0.3931
+recall: 0.2877
+precision: 0.3684
+====================================================================================================
+content_name: scotland-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/scotland-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_scotland-facts.csv
+f1-score: 0.4524
+accuracy: 0.5446
+recall: 0.3725
+precision: 0.5758
+====================================================================================================
+content_name: portugal-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/portugal-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_portugal-facts.csv
+f1-score: 0.5
+accuracy: 0.4216
+recall: 0.5784
+precision: 0.4403
+====================================================================================================
+content_name: ancient-greece-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/ancient-greece-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_ancient-greece-facts.csv
+f1-score: 0.3636
+accuracy: 0.5288
+recall: 0.2692
+precision: 0.56
+====================================================================================================
+content_name: country-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/country-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_country-facts.csv
+f1-score: 0.6587
+accuracy: 0.5431
+recall: 0.879
+precision: 0.5267
+====================================================================================================
+content_name: russia-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/russia-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_russia-facts.csv
+f1-score: 0.398
+accuracy: 0.4129
+recall: 0.3861
+precision: 0.4105
+====================================================================================================
+content_name: afghanistan-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/afghanistan-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_afghanistan-facts.csv
+f1-score: 0.5574
+accuracy: 0.6029
+recall: 0.5
+precision: 0.6296
+====================================================================================================
+content_name: north-korea-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/north-korea-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_north-korea-facts.csv
+f1-score: 0.6444
+accuracy: 0.5897
+recall: 0.7436
+precision: 0.5686
+====================================================================================================
+content_name: brazil-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/brazil-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_brazil-facts.csv
+f1-score: 0.704
+accuracy: 0.75
+recall: 0.5946
+precision: 0.8627
+====================================================================================================
+content_name: venezuela-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/venezuela-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_venezuela-facts.csv
+f1-score: 0.6087
+accuracy: 0.6029
+recall: 0.6176
+precision: 0.6
+====================================================================================================
+content_name: israel-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/israel-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_israel-facts.csv
+f1-score: 0.5253
+accuracy: 0.4566
+recall: 0.5977
+precision: 0.4685
+====================================================================================================
+content_name: argentina-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/argentina-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_argentina-facts.csv
+f1-score: 0.5327
+accuracy: 0.4709
+recall: 0.6
+precision: 0.479
+====================================================================================================
+content_name: switzerland-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/switzerland-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_switzerland-facts.csv
+f1-score: 0.4851
+accuracy: 0.5536
+recall: 0.4188
+precision: 0.5765
+====================================================================================================
+content_name: philippines-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/philippines-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_philippines-facts.csv
+f1-score: 0.4804
+accuracy: 0.47
+recall: 0.49
+precision: 0.4712
+====================================================================================================
+content_name: haiti-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/haiti-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_haiti-facts.csv
+f1-score: 0.6109
+accuracy: 0.5079
+recall: 0.7684
+precision: 0.5069
+====================================================================================================
+content_name: iceland-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/iceland-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_iceland-facts.csv
+f1-score: 0.3636
+accuracy: 0.5081
+recall: 0.2796
+precision: 0.52
+====================================================================================================
+content_name: canada-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/canada-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_canada-facts.csv
+f1-score: 0.7031
+accuracy: 0.678
+recall: 0.7627
+precision: 0.6522
+====================================================================================================
+content_name: facts-about-greece-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/facts-about-greece.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_facts-about-greece.csv
+f1-score: 0.5017
+accuracy: 0.4607
+recall: 0.5429
+precision: 0.4663
+====================================================================================================
+content_name: poland-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/poland-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_poland-facts.csv
+f1-score: 0.5882
+accuracy: 0.6078
+recall: 0.5603
+precision: 0.619
+====================================================================================================
+content_name: greenland-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/greenland-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_greenland-facts.csv
+f1-score: 0.5439
+accuracy: 0.6688
+recall: 0.3924
+precision: 0.8857
+====================================================================================================
+content_name: colombia-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/colombia-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_colombia-facts.csv
+f1-score: 0.65
+accuracy: 0.6774
+recall: 0.5963
+precision: 0.7143
+====================================================================================================
+content_name: mexico-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/mexico-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_mexico-facts.csv
+f1-score: 0.5038
+accuracy: 0.4538
+recall: 0.5531
+precision: 0.4626
+====================================================================================================
+content_name: germany-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/germany-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_germany-facts.csv
+f1-score: 0.6453
+accuracy: 0.5465
+recall: 0.8222
+precision: 0.5311
+====================================================================================================
+content_name: belgium-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/belgium-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_belgium-facts.csv
+f1-score: 0.5247
+accuracy: 0.375
+recall: 0.69
+precision: 0.4233
+====================================================================================================
+content_name: ecuador-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/ecuador-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_ecuador-facts.csv
+f1-score: 0.5026
+accuracy: 0.3975
+recall: 0.6049
+precision: 0.4298
+====================================================================================================
+content_name: spain-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/spain-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_spain-facts.csv
+f1-score: 0.7104
+accuracy: 0.6689
+recall: 0.8095
+precision: 0.633
+====================================================================================================
+content_name: egypt-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/egypt-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_egypt-facts.csv
+f1-score: 0.7039
+accuracy: 0.7
+recall: 0.7133
+precision: 0.6948
+====================================================================================================
+content_name: honduras-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/honduras-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_honduras-facts.csv
+f1-score: 0.5426
+accuracy: 0.4911
+recall: 0.6
+precision: 0.4951
+====================================================================================================
+content_name: sweden-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/sweden-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_sweden-facts.csv
+f1-score: 0.6633
+accuracy: 0.5639
+recall: 0.8562
+precision: 0.5413
+====================================================================================================
+content_name: japan-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/japan-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_japan-facts.csv
+f1-score: 0.4678
+accuracy: 0.3702
+recall: 0.5517
+precision: 0.4061
+====================================================================================================
+content_name: turkey-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/turkey-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_turkey-facts.csv
+f1-score: 0.6199
+accuracy: 0.6632
+recall: 0.5464
+precision: 0.7162
+====================================================================================================
+content_name: hong-kong-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/hong-kong-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_hong-kong-facts.csv
+f1-score: 0.6359
+accuracy: 0.6773
+recall: 0.5636
+precision: 0.7294
+====================================================================================================
+content_name: iran-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/iran-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_iran-facts.csv
+f1-score: 0.6712
+accuracy: 0.5636
+recall: 0.8909
+precision: 0.5385
+====================================================================================================
+content_name: italy-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/italy-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_italy-facts.csv
+f1-score: 0.6275
+accuracy: 0.5078
+recall: 0.8247
+precision: 0.5063
+====================================================================================================
+content_name: bolivia-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/bolivia-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_bolivia-facts.csv
+f1-score: 0.7194
+accuracy: 0.6119
+recall: 0.9901
+precision: 0.565
+====================================================================================================
+content_name: south-korea-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/south-korea-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_south-korea-facts.csv
+f1-score: 0.74
+accuracy: 0.6953
+recall: 0.8672
+precision: 0.6453
+====================================================================================================
+content_name: china-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/china-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_china-facts.csv
+f1-score: 0.6607
+accuracy: 0.6833
+recall: 0.6167
+precision: 0.7115
+====================================================================================================
+content_name: denmark-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/denmark-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_denmark-facts.csv
+f1-score: 0.5068
+accuracy: 0.5514
+recall: 0.4596
+precision: 0.5649
+====================================================================================================
+content_name: singapore-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/singapore-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_singapore-facts.csv
+f1-score: 0.5823
+accuracy: 0.4923
+recall: 0.7077
+precision: 0.4946
+====================================================================================================
+content_name: norway-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/norway-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_norway-facts.csv
+f1-score: 0.7392
+accuracy: 0.6841
+recall: 0.8956
+precision: 0.6293
+====================================================================================================
+content_name: new-zealand-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/new-zealand-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_new-zealand-facts.csv
+f1-score: 0.6779
+accuracy: 0.5649
+recall: 0.9156
+precision: 0.5382
+====================================================================================================
+content_name: vietnam-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/vietnam-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_vietnam-facts.csv
+f1-score: 0.408
+accuracy: 0.5882
+recall: 0.2828
+precision: 0.7321
+====================================================================================================
+content_name: guatemala-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/guatemala-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_guatemala-facts.csv
+f1-score: 0.7167
+accuracy: 0.6175
+recall: 0.9633
+precision: 0.5707
+====================================================================================================
+content_name: dominican-republic-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/dominican-republic-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_dominican-republic-facts.csv
+f1-score: 0.6643
+accuracy: 0.5747
+recall: 0.8378
+precision: 0.5503
+====================================================================================================
+content_name: mongolia-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/mongolia-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_mongolia-facts.csv
+f1-score: 0.5244
+accuracy: 0.5691
+recall: 0.4725
+precision: 0.589
+====================================================================================================
+content_name: puerto-rico-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/puerto-rico-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_puerto-rico-facts.csv
+f1-score: 0.6328
+accuracy: 0.5495
+recall: 0.7737
+precision: 0.5354
+====================================================================================================
+content_name: thailand-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/thailand-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_thailand-facts.csv
+f1-score: 0.6024
+accuracy: 0.5352
+recall: 0.7042
+precision: 0.5263
+====================================================================================================
+content_name: india-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/india-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/countries/query_india-facts.csv
+f1-score: 0.4407
+accuracy: 0.5658
+recall: 0.3421
+precision: 0.619
+====================================================================================================
+content_name: panama-canal-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/panama-canal-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/landmarks/query_panama-canal-facts.csv
+f1-score: 0.6154
+accuracy: 0.6121
+recall: 0.6207
+precision: 0.6102
+====================================================================================================
+content_name: victoria-falls-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/victoria-falls-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/landmarks/query_victoria-falls-facts.csv
+f1-score: 0.6744
+accuracy: 0.7308
+recall: 0.5577
+precision: 0.8529
+====================================================================================================
+content_name: colosseum-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/colosseum-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/landmarks/query_colosseum-facts.csv
+f1-score: 0.625
+accuracy: 0.46
+recall: 0.9
+precision: 0.4787
+====================================================================================================
+content_name: winchester-house-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/winchester-house-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/landmarks/query_winchester-house-facts.csv
+f1-score: 0.5977
+accuracy: 0.6667
+recall: 0.4906
+precision: 0.7647
+====================================================================================================
+content_name: sydney-opera-house-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/sydney-opera-house-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/landmarks/query_sydney-opera-house-facts.csv
+f1-score: 0.5344
+accuracy: 0.6188
+recall: 0.4375
+precision: 0.6863
+====================================================================================================
+content_name: niagara-falls-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/niagara-falls-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/landmarks/query_niagara-falls-facts.csv
+f1-score: 0.4538
+accuracy: 0.4397
+recall: 0.4655
+precision: 0.4426
+====================================================================================================
+content_name: buckingham-palace-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/buckingham-palace-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/landmarks/query_buckingham-palace-facts.csv
+f1-score: 0.6724
+accuracy: 0.6381
+recall: 0.7358
+precision: 0.619
+====================================================================================================
+content_name: big-ben-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/big-ben-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/landmarks/query_big-ben-facts.csv
+f1-score: 0.4632
+accuracy: 0.3462
+recall: 0.5641
+precision: 0.3929
+====================================================================================================
+content_name: stonehenge-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/stonehenge-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/landmarks/query_stonehenge-facts.csv
+f1-score: 0.521
+accuracy: 0.4571
+recall: 0.5849
+precision: 0.4697
+====================================================================================================
+content_name: eiffel-tower-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/eiffel-tower-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/landmarks/query_eiffel-tower-facts.csv
+f1-score: 0.5382
+accuracy: 0.4526
+recall: 0.6379
+precision: 0.4654
+====================================================================================================
+content_name: area-51-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/area-51-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/landmarks/query_area-51-facts.csv
+f1-score: 0.4444
+accuracy: 0.3
+recall: 0.56
+precision: 0.3684
+====================================================================================================
+content_name: statue-of-liberty-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/statue-of-liberty-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/landmarks/query_statue-of-liberty-facts.csv
+f1-score: 0.3425
+accuracy: 0.4921
+recall: 0.2632
+precision: 0.4902
+====================================================================================================
+content_name: yellowstone-national-park-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/yellowstone-national-park-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/landmarks/query_yellowstone-national-park-facts.csv
+f1-score: 0.5857
+accuracy: 0.4821
+recall: 0.7321
+precision: 0.4881
+====================================================================================================
+content_name: grand-canyon-national-park-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/grand-canyon-national-park-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/landmarks/query_grand-canyon-national-park-facts.csv
+f1-score: 0.5631
+accuracy: 0.5741
+recall: 0.5472
+precision: 0.58
+====================================================================================================
+content_name: burj-khalifa-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/burj-khalifa-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/landmarks/query_burj-khalifa-facts.csv
+f1-score: 0.6395
+accuracy: 0.6103
+recall: 0.6912
+precision: 0.5949
+====================================================================================================
+content_name: golden-gate-bridge-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/golden-gate-bridge-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/landmarks/query_golden-gate-bridge-facts.csv
+f1-score: 0.7029
+accuracy: 0.6076
+recall: 0.9244
+precision: 0.567
+====================================================================================================
+content_name: notre-dame-cathedral-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/notre-dame-cathedral-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/landmarks/query_notre-dame-cathedral-facts.csv
+f1-score: 0.6753
+accuracy: 0.5833
+recall: 0.8667
+precision: 0.5532
+====================================================================================================
+content_name: machu-picchu-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/machu-picchu-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/landmarks/query_machu-picchu-facts.csv
+f1-score: 0.7547
+accuracy: 0.7679
+recall: 0.7143
+precision: 0.8
+====================================================================================================
+content_name: mount-rushmore-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/mount-rushmore-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/landmarks/query_mount-rushmore-facts.csv
+f1-score: 0.699
+accuracy: 0.5773
+recall: 0.9818
+precision: 0.5427
+====================================================================================================
+content_name: virginia-plan-vs-new-jersey-plan-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/virginia-plan-vs-new-jersey-plan.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_virginia-plan-vs-new-jersey-plan.csv
+f1-score: 0.2588
+accuracy: 0.5078
+recall: 0.1719
+precision: 0.5238
+====================================================================================================
+content_name: nevada-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/nevada-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_nevada-facts.csv
+f1-score: 0.4221
+accuracy: 0.4655
+recall: 0.3892
+precision: 0.461
+====================================================================================================
+content_name: new-hampshire-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/new-hampshire-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_new-hampshire-facts.csv
+f1-score: 0.4
+accuracy: 0.5207
+recall: 0.3176
+precision: 0.54
+====================================================================================================
+content_name: south-carolina-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/south-carolina-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_south-carolina-facts.csv
+f1-score: 0.4031
+accuracy: 0.5444
+recall: 0.3059
+precision: 0.5909
+====================================================================================================
+content_name: new-york-state-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/new-york-state-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_new-york-state-facts.csv
+f1-score: 0.4571
+accuracy: 0.5267
+recall: 0.3972
+precision: 0.5385
+====================================================================================================
+content_name: nebraska-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/nebraska-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_nebraska-facts.csv
+f1-score: 0.5244
+accuracy: 0.5244
+recall: 0.5244
+precision: 0.5244
+====================================================================================================
+content_name: ohio-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/ohio-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_ohio-facts.csv
+f1-score: 0.3411
+accuracy: 0.3773
+recall: 0.3212
+precision: 0.3636
+====================================================================================================
+content_name: maine-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/maine-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_maine-facts.csv
+f1-score: 0.4354
+accuracy: 0.4713
+recall: 0.4051
+precision: 0.4706
+====================================================================================================
+content_name: missouri-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/missouri-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_missouri-facts.csv
+f1-score: 0.5437
+accuracy: 0.5587
+recall: 0.5234
+precision: 0.5657
+====================================================================================================
+content_name: minnesota-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/minnesota-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_minnesota-facts.csv
+f1-score: 0.3604
+accuracy: 0.4621
+recall: 0.303
+precision: 0.4444
+====================================================================================================
+content_name: wisconsin-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/wisconsin-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_wisconsin-facts.csv
+f1-score: 0.4964
+accuracy: 0.6102
+recall: 0.382
+precision: 0.7083
+====================================================================================================
+content_name: michigan-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/michigan-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_michigan-facts.csv
+f1-score: 0.4029
+accuracy: 0.4557
+recall: 0.366
+precision: 0.448
+====================================================================================================
+content_name: maryland-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/maryland-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_maryland-facts.csv
+f1-score: 0.4065
+accuracy: 0.535
+recall: 0.3165
+precision: 0.5682
+====================================================================================================
+content_name: kansas-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/kansas-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_kansas-facts.csv
+f1-score: 0.3897
+accuracy: 0.5221
+recall: 0.304
+precision: 0.5429
+====================================================================================================
+content_name: indiana-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/indiana-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_indiana-facts.csv
+f1-score: 0.3937
+accuracy: 0.4832
+recall: 0.3333
+precision: 0.4808
+====================================================================================================
+content_name: rhode-island-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/rhode-island-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_rhode-island-facts.csv
+f1-score: 0.4
+accuracy: 0.4419
+recall: 0.3692
+precision: 0.4364
+====================================================================================================
+content_name: virginia-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/virginia-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_virginia-facts.csv
+f1-score: 0.5735
+accuracy: 0.4257
+recall: 0.7647
+precision: 0.4588
+====================================================================================================
+content_name: north-carolina-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/north-carolina-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_north-carolina-facts.csv
+f1-score: 0.4455
+accuracy: 0.448
+recall: 0.4414
+precision: 0.4495
+====================================================================================================
+content_name: illinois-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/illinois-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_illinois-facts.csv
+f1-score: 0.3806
+accuracy: 0.3541
+recall: 0.3953
+precision: 0.3669
+====================================================================================================
+content_name: new-mexico-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/new-mexico-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_new-mexico-facts.csv
+f1-score: 0.3429
+accuracy: 0.549
+recall: 0.2338
+precision: 0.6429
+====================================================================================================
+content_name: us-states-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/us-states-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_us-states-facts.csv
+f1-score: 0.4398
+accuracy: 0.5947
+recall: 0.3182
+precision: 0.7119
+====================================================================================================
+content_name: oregon-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/oregon-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_oregon-facts.csv
+f1-score: 0.646
+accuracy: 0.5547
+recall: 0.8125
+precision: 0.5361
+====================================================================================================
+content_name: texas-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/texas-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_texas-facts.csv
+f1-score: 0.55
+accuracy: 0.617
+recall: 0.4648
+precision: 0.6735
+====================================================================================================
+content_name: pennsylvania-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/pennsylvania-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_pennsylvania-facts.csv
+f1-score: 0.581
+accuracy: 0.5533
+recall: 0.6162
+precision: 0.5495
+====================================================================================================
+content_name: connecticut-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/connecticut-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_connecticut-facts.csv
+f1-score: 0.6055
+accuracy: 0.6161
+recall: 0.5893
+precision: 0.6226
+====================================================================================================
+content_name: louisiana-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/louisiana-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_louisiana-facts.csv
+f1-score: 0.7843
+accuracy: 0.7843
+recall: 0.7843
+precision: 0.7843
+====================================================================================================
+content_name: hawaii-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/hawaii-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_hawaii-facts.csv
+f1-score: 0.5985
+accuracy: 0.6875
+recall: 0.4659
+precision: 0.8367
+====================================================================================================
+content_name: alaska-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/alaska-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_alaska-facts.csv
+f1-score: 0.4348
+accuracy: 0.5724
+recall: 0.3289
+precision: 0.641
+====================================================================================================
+content_name: kentucky-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/kentucky-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_kentucky-facts.csv
+f1-score: 0.6111
+accuracy: 0.5372
+recall: 0.7213
+precision: 0.5301
+====================================================================================================
+content_name: montana-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/montana-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/world/us-states/query_montana-facts.csv
+f1-score: 0.6796
+accuracy: 0.552
+recall: 0.9459
+precision: 0.5303
+====================================================================================================
+content_name: biology-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/biology-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/science/biology/query_biology-facts.csv
+f1-score: 0.5714
+accuracy: 0.5714
+recall: 0.5714
+precision: 0.5714
+====================================================================================================
+content_name: bacteria-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/bacteria-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/science/biology/query_bacteria-facts.csv
+f1-score: 0.6456
+accuracy: 0.5372
+recall: 0.8361
+precision: 0.5258
+====================================================================================================
+content_name: lithium-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/lithium-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/science/chemistry/query_lithium-facts.csv
+f1-score: 0.5299
+accuracy: 0.4712
+recall: 0.5962
+precision: 0.4769
+====================================================================================================
+content_name: chemistry-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/chemistry-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/science/chemistry/query_chemistry-facts.csv
+f1-score: 0.8429
+accuracy: 0.8327
+recall: 0.8943
+precision: 0.7971
+====================================================================================================
+content_name: gold-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/gold-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/science/chemistry/query_gold-facts.csv
+f1-score: 0.6
+accuracy: 0.6538
+recall: 0.5192
+precision: 0.7105
+====================================================================================================
+content_name: taiga-biomes-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/taiga-biomes-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/science/geography/query_taiga-biomes-facts.csv
+f1-score: 0.56
+accuracy: 0.4649
+recall: 0.6774
+precision: 0.4773
+====================================================================================================
+content_name: deforestation-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/deforestation-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/science/geography/query_deforestation-facts.csv
+f1-score: 0.1875
+accuracy: 0.4135
+recall: 0.1343
+precision: 0.3103
+====================================================================================================
+content_name: desert-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/desert-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/science/geography/query_desert-facts.csv
+f1-score: 0.3889
+accuracy: 0.3714
+recall: 0.3962
+precision: 0.3818
+====================================================================================================
+content_name: geography-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/geography-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/science/geography/query_geography-facts.csv
+f1-score: 0.654
+accuracy: 0.5876
+recall: 0.7753
+precision: 0.5656
+====================================================================================================
+content_name: rainforest-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/rainforest-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/science/geography/query_rainforest-facts.csv
+f1-score: 0.5043
+accuracy: 0.5128
+recall: 0.4915
+precision: 0.5179
+====================================================================================================
+content_name: great-pacific-garbage-patch-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/great-pacific-garbage-patch-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/science/geography/query_great-pacific-garbage-patch-facts.csv
+f1-score: 0.7241
+accuracy: 0.7064
+recall: 0.7636
+precision: 0.6885
+====================================================================================================
+content_name: weather-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/weather-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/science/geography/query_weather-facts.csv
+f1-score: 0.2222
+accuracy: 0.5625
+recall: 0.125
+precision: 1.0
+====================================================================================================
+content_name: technology-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/technology-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/science/technology/query_technology-facts.csv
+f1-score: 0.4028
+accuracy: 0.5612
+recall: 0.2959
+precision: 0.6304
+====================================================================================================
+content_name: car-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/car-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/science/technology/query_car-facts.csv
+f1-score: 0.6087
+accuracy: 0.5743
+recall: 0.6622
+precision: 0.5632
+====================================================================================================
+content_name: apollo-11-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/apollo-11-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/science/technology/query_apollo-11-facts.csv
+f1-score: 0.5152
+accuracy: 0.6
+recall: 0.425
+precision: 0.6538
+====================================================================================================
+content_name: linkedin-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/linkedin-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/science/technology/query_linkedin-facts.csv
+f1-score: 0.6022
+accuracy: 0.6032
+recall: 0.5989
+precision: 0.6054
+====================================================================================================
+content_name: paypal-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/paypal-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/science/technology/query_paypal-facts.csv
+f1-score: 0.6593
+accuracy: 0.6477
+recall: 0.6818
+precision: 0.6383
+====================================================================================================
+content_name: yahoo-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/yahoo-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/science/technology/query_yahoo-facts.csv
+f1-score: 0.4238
+accuracy: 0.4984
+recall: 0.3677
+precision: 0.5
+====================================================================================================
+content_name: whatsapp-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/whatsapp-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/science/technology/query_whatsapp-facts.csv
+f1-score: 0.4662
+accuracy: 0.5576
+recall: 0.3851
+precision: 0.5905
+====================================================================================================
+content_name: airbnb-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/airbnb-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/science/technology/query_airbnb-facts.csv
+f1-score: 0.5979
+accuracy: 0.6378
+recall: 0.5385
+precision: 0.672
+====================================================================================================
+content_name: amazon-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/amazon-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/science/technology/query_amazon-facts.csv
+f1-score: 0.5971
+accuracy: 0.6827
+recall: 0.4689
+precision: 0.8218
+====================================================================================================
+content_name: internet-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/internet-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/science/technology/query_internet-facts.csv
+f1-score: 0.6496
+accuracy: 0.6006
+recall: 0.7403
+precision: 0.5787
+====================================================================================================
+content_name: hispanic-culture-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/hispanic-culture-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/culture/query_hispanic-culture-facts.csv
+f1-score: 0.4851
+accuracy: 0.4784
+recall: 0.4914
+precision: 0.479
+====================================================================================================
+content_name: egyptian-gods-and-goddesses-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/egyptian-gods-and-goddesses.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/culture/query_egyptian-gods-and-goddesses.csv
+f1-score: 0.2273
+accuracy: 0.3733
+recall: 0.1835
+precision: 0.2985
+====================================================================================================
+content_name: the-mayans-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/the-mayans-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/culture/query_the-mayans-facts.csv
+f1-score: 0.3063
+accuracy: 0.4211
+recall: 0.2537
+precision: 0.3864
+====================================================================================================
+content_name: culture-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/culture-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/culture/query_culture-facts.csv
+f1-score: 0.7009
+accuracy: 0.6354
+recall: 0.8542
+precision: 0.5942
+====================================================================================================
+content_name: st-patricks-day-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/st-patricks-day-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/culture/query_st-patricks-day-facts.csv
+f1-score: 0.4511
+accuracy: 0.3761
+recall: 0.5085
+precision: 0.4054
+====================================================================================================
+content_name: thanksgiving-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/thanksgiving-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/culture/query_thanksgiving-facts.csv
+f1-score: 0.6667
+accuracy: 0.65
+recall: 0.7
+precision: 0.6364
+====================================================================================================
+content_name: valentines-day-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/valentines-day-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/culture/query_valentines-day-facts.csv
+f1-score: 0.6889
+accuracy: 0.7607
+recall: 0.5254
+precision: 1.0
+====================================================================================================
+content_name: language-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/language-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/culture/query_language-facts.csv
+f1-score: 0.5
+accuracy: 0.6607
+recall: 0.3393
+precision: 0.95
+====================================================================================================
+content_name: korean-war-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/korean-war-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/historical-events/query_korean-war-facts.csv
+f1-score: 0.5057
+accuracy: 0.473
+recall: 0.5392
+precision: 0.4762
+====================================================================================================
+content_name: historical-events-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/historical-events-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/historical-events/query_historical-events-facts.csv
+f1-score: 0.461
+accuracy: 0.4
+recall: 0.5113
+precision: 0.4198
+====================================================================================================
+content_name: 911-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/911-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/historical-events/query_911-facts.csv
+f1-score: 0.5195
+accuracy: 0.6337
+recall: 0.3922
+precision: 0.7692
+====================================================================================================
+content_name: ww2-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/ww2-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/historical-events/query_ww2-facts.csv
+f1-score: 0.5016
+accuracy: 0.4555
+recall: 0.5479
+precision: 0.4624
+====================================================================================================
+content_name: boston-tea-party-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/boston-tea-party-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/historical-events/query_boston-tea-party-facts.csv
+f1-score: 0.3178
+accuracy: 0.3241
+recall: 0.3148
+precision: 0.3208
+====================================================================================================
+content_name: pearl-harbor-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/pearl-harbor-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/historical-events/query_pearl-harbor-facts.csv
+f1-score: 0.5829
+accuracy: 0.5311
+recall: 0.6517
+precision: 0.5273
+====================================================================================================
+content_name: auschwitz-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/auschwitz-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/historical-events/query_auschwitz-facts.csv
+f1-score: 0.5
+accuracy: 0.633
+recall: 0.3636
+precision: 0.8
+====================================================================================================
+content_name: 4th-of-july-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/4th-of-july-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/historical-events/query_4th-of-july-facts.csv
+f1-score: 0.7059
+accuracy: 0.6667
+recall: 0.7925
+precision: 0.6364
+====================================================================================================
+content_name: cinco-de-mayo-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/cinco-de-mayo-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/historical-events/query_cinco-de-mayo-facts.csv
+f1-score: 0.6142
+accuracy: 0.5776
+recall: 0.6724
+precision: 0.5652
+====================================================================================================
+content_name: ww1-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/ww1-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/historical-events/query_ww1-facts.csv
+f1-score: 0.8306
+accuracy: 0.8132
+recall: 0.9124
+precision: 0.7622
+====================================================================================================
+content_name: andre-the-giant-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/andre-the-giant-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_andre-the-giant-facts.csv
+f1-score: 0.3969
+accuracy: 0.3417
+recall: 0.4333
+precision: 0.3662
+====================================================================================================
+content_name: mother-teresa-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/mother-teresa-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_mother-teresa-facts.csv
+f1-score: 0.5217
+accuracy: 0.4677
+recall: 0.5806
+precision: 0.4737
+====================================================================================================
+content_name: hades-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/hades-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_hades-facts.csv
+f1-score: 0.4279
+accuracy: 0.4198
+recall: 0.434
+precision: 0.422
+====================================================================================================
+content_name: hera-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/hera-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_hera-facts.csv
+f1-score: 0.5226
+accuracy: 0.5078
+recall: 0.5361
+precision: 0.5098
+====================================================================================================
+content_name: jesus-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/jesus-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_jesus-facts.csv
+f1-score: 0.3175
+accuracy: 0.57
+recall: 0.2
+precision: 0.7692
+====================================================================================================
+content_name: people-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/people-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_people-facts.csv
+f1-score: 0.6697
+accuracy: 0.6557
+recall: 0.6981
+precision: 0.6435
+====================================================================================================
+content_name: oprah-winfrey-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/oprah-winfrey-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_oprah-winfrey-facts.csv
+f1-score: 0.5412
+accuracy: 0.625
+recall: 0.4423
+precision: 0.697
+====================================================================================================
+content_name: julius-caesar-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/julius-caesar-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_julius-caesar-facts.csv
+f1-score: 0.5756
+accuracy: 0.5817
+recall: 0.5673
+precision: 0.5842
+====================================================================================================
+content_name: william-shakespeare-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/william-shakespeare-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_william-shakespeare-facts.csv
+f1-score: 0.3942
+accuracy: 0.4299
+recall: 0.3694
+precision: 0.4227
+====================================================================================================
+content_name: florence-nightingale-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/florence-nightingale-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_florence-nightingale-facts.csv
+f1-score: 0.5825
+accuracy: 0.5865
+recall: 0.5769
+precision: 0.5882
+====================================================================================================
+content_name: bill-gates-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/bill-gates-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_bill-gates-facts.csv
+f1-score: 0.5505
+accuracy: 0.4815
+recall: 0.6316
+precision: 0.4878
+====================================================================================================
+content_name: alexander-the-great-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/alexander-the-great-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_alexander-the-great-facts.csv
+f1-score: 0.4494
+accuracy: 0.5463
+recall: 0.3704
+precision: 0.5714
+====================================================================================================
+content_name: michael-jackson-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/michael-jackson-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_michael-jackson-facts.csv
+f1-score: 0.4975
+accuracy: 0.4656
+recall: 0.5263
+precision: 0.4717
+====================================================================================================
+content_name: neil-armstrong-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/neil-armstrong-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_neil-armstrong-facts.csv
+f1-score: 0.7119
+accuracy: 0.6881
+recall: 0.7636
+precision: 0.6667
+====================================================================================================
+content_name: george-washington-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/george-washington-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_george-washington-facts.csv
+f1-score: 0.5051
+accuracy: 0.5333
+recall: 0.4717
+precision: 0.5435
+====================================================================================================
+content_name: marilyn-monroe-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/marilyn-monroe-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_marilyn-monroe-facts.csv
+f1-score: 0.4848
+accuracy: 0.49
+recall: 0.48
+precision: 0.4898
+====================================================================================================
+content_name: cleopatra-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/cleopatra-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_cleopatra-facts.csv
+f1-score: 0.5975
+accuracy: 0.4868
+recall: 0.7579
+precision: 0.4932
+====================================================================================================
+content_name: the-beatles-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/the-beatles-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_the-beatles-facts.csv
+f1-score: 0.5351
+accuracy: 0.5382
+recall: 0.5298
+precision: 0.5405
+====================================================================================================
+content_name: martin-luther-king-jr-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/martin-luther-king-jr-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_martin-luther-king-jr-facts.csv
+f1-score: 0.5
+accuracy: 0.5345
+recall: 0.4655
+precision: 0.54
+====================================================================================================
+content_name: bruce-lee-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/bruce-lee-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_bruce-lee-facts.csv
+f1-score: 0.4649
+accuracy: 0.3654
+recall: 0.5513
+precision: 0.4019
+====================================================================================================
+content_name: michael-jordan-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/michael-jordan-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_michael-jordan-facts.csv
+f1-score: 0.4311
+accuracy: 0.4722
+recall: 0.4
+precision: 0.4675
+====================================================================================================
+content_name: beethoven-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/beethoven-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_beethoven-facts.csv
+f1-score: 0.5278
+accuracy: 0.4333
+recall: 0.6333
+precision: 0.4524
+====================================================================================================
+content_name: marie-curie-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/marie-curie-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_marie-curie-facts.csv
+f1-score: 0.4696
+accuracy: 0.4352
+recall: 0.5
+precision: 0.4426
+====================================================================================================
+content_name: pablo-escobar-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/pablo-escobar-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_pablo-escobar-facts.csv
+f1-score: 0.486
+accuracy: 0.5089
+recall: 0.4643
+precision: 0.5098
+====================================================================================================
+content_name: poseidon-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/poseidon-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_poseidon-facts.csv
+f1-score: 0.65
+accuracy: 0.5625
+recall: 0.8125
+precision: 0.5417
+====================================================================================================
+content_name: aphrodite-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/aphrodite-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_aphrodite-facts.csv
+f1-score: 0.619
+accuracy: 0.5676
+recall: 0.6989
+precision: 0.5556
+====================================================================================================
+content_name: maya-angelou-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/maya-angelou-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_maya-angelou-facts.csv
+f1-score: 0.5909
+accuracy: 0.5385
+recall: 0.6667
+precision: 0.5306
+====================================================================================================
+content_name: mozart-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/mozart-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_mozart-facts.csv
+f1-score: 0.5699
+accuracy: 0.497
+recall: 0.6627
+precision: 0.5
+====================================================================================================
+content_name: donald-trump-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/donald-trump-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_donald-trump-facts.csv
+f1-score: 0.6232
+accuracy: 0.6545
+recall: 0.5695
+precision: 0.688
+====================================================================================================
+content_name: us-presidents-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/us-presidents-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_us-presidents-facts.csv
+f1-score: 0.4174
+accuracy: 0.5663
+recall: 0.3097
+precision: 0.64
+====================================================================================================
+content_name: women-leaders-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/women-leaders-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_women-leaders-facts.csv
+f1-score: 0.7238
+accuracy: 0.7521
+recall: 0.6441
+precision: 0.8261
+====================================================================================================
+content_name: steve-jobs-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/steve-jobs-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_steve-jobs-facts.csv
+f1-score: 0.4444
+accuracy: 0.5868
+recall: 0.3279
+precision: 0.6897
+====================================================================================================
+content_name: barack-obama-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/barack-obama-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_barack-obama-facts.csv
+f1-score: 0.6182
+accuracy: 0.5333
+recall: 0.7556
+precision: 0.5231
+====================================================================================================
+content_name: confucius-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/confucius-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_confucius-facts.csv
+f1-score: 0.6713
+accuracy: 0.5688
+recall: 0.8727
+precision: 0.5455
+====================================================================================================
+content_name: pythagoras-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/pythagoras-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/people/query_pythagoras-facts.csv
+f1-score: 0.4915
+accuracy: 0.4872
+recall: 0.4915
+precision: 0.4915
+====================================================================================================
+content_name: buddhism-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/buddhism-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/religion/query_buddhism-facts.csv
+f1-score: 0.6043
+accuracy: 0.5079
+recall: 0.7474
+precision: 0.5071
+====================================================================================================
+content_name: bible-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/bible-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/religion/query_bible-facts.csv
+f1-score: 0.4819
+accuracy: 0.5743
+recall: 0.3922
+precision: 0.625
+====================================================================================================
+content_name: easter-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/easter-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/history/religion/query_easter-facts.csv
+f1-score: 0.6802
+accuracy: 0.573
+recall: 0.9032
+precision: 0.5455
+====================================================================================================
+content_name: entertainment-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/entertainment-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/entertainment/query_entertainment-facts.csv
+f1-score: 0.6259
+accuracy: 0.725
+recall: 0.46
+precision: 0.9787
+====================================================================================================
+content_name: my-cousin-vinny-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/my-cousin-vinny-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/entertainment/query_my-cousin-vinny-facts.csv
+f1-score: 0.6118
+accuracy: 0.6857
+recall: 0.4906
+precision: 0.8125
+====================================================================================================
+content_name: friends-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/friends-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/entertainment/query_friends-facts.csv
+f1-score: 0.5321
+accuracy: 0.6554
+recall: 0.3919
+precision: 0.8286
+====================================================================================================
+content_name: star-wars-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/star-wars-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/entertainment/query_star-wars-facts.csv
+f1-score: 0.419
+accuracy: 0.3646
+recall: 0.4583
+precision: 0.386
+====================================================================================================
+content_name: christmas-songs-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/christmas-songs.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/entertainment/query_christmas-songs.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: tiktok-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/tiktok-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/entertainment/query_tiktok-facts.csv
+f1-score: 0.6053
+accuracy: 0.6891
+recall: 0.4742
+precision: 0.8364
+====================================================================================================
+content_name: rock-paper-scissors-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/rock-paper-scissors-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/entertainment/query_rock-paper-scissors-facts.csv
+f1-score: 0.5
+accuracy: 0.48
+recall: 0.52
+precision: 0.4815
+====================================================================================================
+content_name: lego-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/lego-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/entertainment/query_lego-facts.csv
+f1-score: 0.6571
+accuracy: 0.5714
+recall: 0.8214
+precision: 0.5476
+====================================================================================================
+content_name: disney-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/disney-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/entertainment/query_disney-facts.csv
+f1-score: 0.5863
+accuracy: 0.5744
+recall: 0.6033
+precision: 0.5703
+====================================================================================================
+content_name: spotify-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/spotify-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/entertainment/query_spotify-facts.csv
+f1-score: 0.4834
+accuracy: 0.4787
+recall: 0.4878
+precision: 0.479
+====================================================================================================
+content_name: netflix-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/netflix-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/entertainment/query_netflix-facts.csv
+f1-score: 0.4225
+accuracy: 0.4193
+recall: 0.4237
+precision: 0.4213
+====================================================================================================
+content_name: harry-potter-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/harry-potter-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/entertainment/query_harry-potter-facts.csv
+f1-score: 0.6616
+accuracy: 0.6962
+recall: 0.5918
+precision: 0.75
+====================================================================================================
+content_name: marvel-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/marvel-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/entertainment/query_marvel-facts.csv
+f1-score: 0.3131
+accuracy: 0.3496
+recall: 0.2965
+precision: 0.3317
+====================================================================================================
+content_name: bts-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/bts-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/entertainment/query_bts-facts.csv
+f1-score: 0.3563
+accuracy: 0.4615
+recall: 0.2981
+precision: 0.4429
+====================================================================================================
+content_name: minecraft-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/minecraft-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/entertainment/query_minecraft-facts.csv
+f1-score: 0.4893
+accuracy: 0.6149
+recall: 0.3677
+precision: 0.7308
+====================================================================================================
+content_name: pokemon-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/pokemon-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/entertainment/query_pokemon-facts.csv
+f1-score: 0.483
+accuracy: 0.5793
+recall: 0.392
+precision: 0.629
+====================================================================================================
+content_name: books-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/books-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/entertainment/query_books-facts.csv
+f1-score: 0.5238
+accuracy: 0.5676
+recall: 0.4731
+precision: 0.5867
+====================================================================================================
+content_name: lord-of-the-rings-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/lord-of-the-rings-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/entertainment/query_lord-of-the-rings-facts.csv
+f1-score: 0.5109
+accuracy: 0.4463
+recall: 0.5738
+precision: 0.4605
+====================================================================================================
+content_name: video-game-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/video-game-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/entertainment/query_video-game-facts.csv
+f1-score: 0.5
+accuracy: 0.5417
+recall: 0.4583
+precision: 0.55
+====================================================================================================
+content_name: food-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/food-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/food/query_food-facts.csv
+f1-score: 0.8245
+accuracy: 0.8065
+recall: 0.9064
+precision: 0.7561
+====================================================================================================
+content_name: chocolate-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/chocolate-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/food/query_chocolate-facts.csv
+f1-score: 0.5019
+accuracy: 0.5657
+recall: 0.4362
+precision: 0.5909
+====================================================================================================
+content_name: strawberry-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/strawberry-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/food/query_strawberry-facts.csv
+f1-score: 0.7044
+accuracy: 0.5983
+recall: 0.9492
+precision: 0.56
+====================================================================================================
+content_name: nutella-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/nutella-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/food/query_nutella-facts.csv
+f1-score: 0.431
+accuracy: 0.4359
+recall: 0.4237
+precision: 0.4386
+====================================================================================================
+content_name: watermelon-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/watermelon-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/food/query_watermelon-facts.csv
+f1-score: 0.437
+accuracy: 0.4463
+recall: 0.4262
+precision: 0.4483
+====================================================================================================
+content_name: cornflakes-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/cornflakes-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/food/query_cornflakes-facts.csv
+f1-score: 0.6202
+accuracy: 0.5288
+recall: 0.7692
+precision: 0.5195
+====================================================================================================
+content_name: breakfast-around-the-world-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/breakfast-around-the-world.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/food/query_breakfast-around-the-world.csv
+f1-score: 0.687
+accuracy: 0.6058
+recall: 0.8654
+precision: 0.5696
+====================================================================================================
+content_name: pizza-hut-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/pizza-hut-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/food/query_pizza-hut-facts.csv
+f1-score: 0.5914
+accuracy: 0.5265
+recall: 0.6832
+precision: 0.5213
+====================================================================================================
+content_name: starbucks-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/starbucks-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/food/query_starbucks-facts.csv
+f1-score: 0.5431
+accuracy: 0.56
+recall: 0.5215
+precision: 0.5667
+====================================================================================================
+content_name: beer-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/beer-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/food/query_beer-facts.csv
+f1-score: 0.5512
+accuracy: 0.6686
+recall: 0.407
+precision: 0.8537
+====================================================================================================
+content_name: mcdonalds-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/mcdonalds-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/food/query_mcdonalds-facts.csv
+f1-score: 0.599
+accuracy: 0.4751
+recall: 0.7815
+precision: 0.4856
+====================================================================================================
+content_name: coca-cola-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/coca-cola-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/food/query_coca-cola-facts.csv
+f1-score: 0.4272
+accuracy: 0.528
+recall: 0.3492
+precision: 0.55
+====================================================================================================
+content_name: pizza-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/pizza-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/food/query_pizza-facts.csv
+f1-score: 0.7288
+accuracy: 0.6571
+recall: 0.9214
+precision: 0.6028
+====================================================================================================
+content_name: ice-cream-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/ice-cream-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/food/query_ice-cream-facts.csv
+f1-score: 0.5532
+accuracy: 0.6147
+recall: 0.4727
+precision: 0.6667
+====================================================================================================
+content_name: avocado-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/avocado-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/food/query_avocado-facts.csv
+f1-score: 0.8696
+accuracy: 0.8558
+recall: 0.9615
+precision: 0.7937
+====================================================================================================
+content_name: pineapple-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/pineapple-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/food/query_pineapple-facts.csv
+f1-score: 0.6552
+accuracy: 0.633
+recall: 0.6909
+precision: 0.623
+====================================================================================================
+content_name: coffee-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/coffee-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/food/query_coffee-facts.csv
+f1-score: 0.5361
+accuracy: 0.5982
+recall: 0.4643
+precision: 0.6341
+====================================================================================================
+content_name: wine-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/wine-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/food/query_wine-facts.csv
+f1-score: 0.4631
+accuracy: 0.387
+recall: 0.5267
+precision: 0.4132
+====================================================================================================
+content_name: egg-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/egg-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/food/query_egg-facts.csv
+f1-score: 0.5
+accuracy: 0.54
+recall: 0.46
+precision: 0.5476
+====================================================================================================
+content_name: health-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/health-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/health/query_health-facts.csv
+f1-score: 0.7017
+accuracy: 0.6447
+recall: 0.8355
+precision: 0.6048
+====================================================================================================
+content_name: sports-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/sports-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/sports/query_sports-facts.csv
+f1-score: 0.7032
+accuracy: 0.6373
+recall: 0.8592
+precision: 0.5951
+====================================================================================================
+content_name: soccer-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/soccer-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/sports/query_soccer-facts.csv
+f1-score: 0.3825
+accuracy: 0.4021
+recall: 0.3684
+precision: 0.3977
+====================================================================================================
+content_name: basketball-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/basketball-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/sports/query_basketball-facts.csv
+f1-score: 0.7168
+accuracy: 0.6667
+recall: 0.8438
+precision: 0.6231
+====================================================================================================
+content_name: baseball-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/baseball-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/sports/query_baseball-facts.csv
+f1-score: 0.5833
+accuracy: 0.6063
+recall: 0.5497
+precision: 0.6213
+====================================================================================================
+content_name: espn-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/espn-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/sports/query_espn-facts.csv
+f1-score: 0.569
+accuracy: 0.6212
+recall: 0.5
+precision: 0.66
+====================================================================================================
+content_name: golf-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/golf-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/sports/query_golf-facts.csv
+f1-score: 0.427
+accuracy: 0.6047
+recall: 0.2923
+precision: 0.7917
+====================================================================================================
+content_name: running-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/running-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/lifestyle/sports/query_running-facts.csv
+f1-score: 0.7332
+accuracy: 0.6621
+recall: 0.9252
+precision: 0.6071
+====================================================================================================
+content_name: little-red-flying-fox-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/little-red-flying-fox-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_little-red-flying-fox-facts.csv
+f1-score: 0.3866
+accuracy: 0.3241
+recall: 0.4259
+precision: 0.3538
+====================================================================================================
+content_name: types-of-starfish-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/types-of-starfish.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_types-of-starfish.csv
+f1-score: 0.1829
+accuracy: 0.4224
+recall: 0.1293
+precision: 0.3125
+====================================================================================================
+content_name: black-bear-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/black-bear-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_black-bear-facts.csv
+f1-score: 0.4167
+accuracy: 0.4667
+recall: 0.3774
+precision: 0.4651
+====================================================================================================
+content_name: hippo-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/hippo-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_hippo-facts.csv
+f1-score: 0.4457
+accuracy: 0.3154
+recall: 0.5467
+precision: 0.3761
+====================================================================================================
+content_name: cow-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/cow-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_cow-facts.csv
+f1-score: 0.5
+accuracy: 0.5556
+recall: 0.4444
+precision: 0.5714
+====================================================================================================
+content_name: red-tailed-hawk-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/red-tailed-hawk-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_red-tailed-hawk-facts.csv
+f1-score: 0.4483
+accuracy: 0.4667
+recall: 0.4333
+precision: 0.4643
+====================================================================================================
+content_name: pigeon-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/pigeon-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_pigeon-facts.csv
+f1-score: 0.5455
+accuracy: 0.4712
+recall: 0.6346
+precision: 0.4783
+====================================================================================================
+content_name: animal-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/animal-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_animal-facts.csv
+f1-score: 0.6684
+accuracy: 0.5974
+recall: 0.8089
+precision: 0.5695
+====================================================================================================
+content_name: rabbit-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/rabbit-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_rabbit-facts.csv
+f1-score: 0.5714
+accuracy: 0.6777
+recall: 0.4262
+precision: 0.8667
+====================================================================================================
+content_name: golden-retriever-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/golden-retriever-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_golden-retriever-facts.csv
+f1-score: 0.6541
+accuracy: 0.5299
+recall: 0.8814
+precision: 0.52
+====================================================================================================
+content_name: bobcat-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/bobcat-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_bobcat-facts.csv
+f1-score: 0.6364
+accuracy: 0.5862
+recall: 0.7241
+precision: 0.5676
+====================================================================================================
+content_name: frog-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/frog-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_frog-facts.csv
+f1-score: 0.7727
+accuracy: 0.7436
+recall: 0.8644
+precision: 0.6986
+====================================================================================================
+content_name: penguin-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/penguin-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_penguin-facts.csv
+f1-score: 0.4808
+accuracy: 0.4808
+recall: 0.4808
+precision: 0.4808
+====================================================================================================
+content_name: cat-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/cat-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_cat-facts.csv
+f1-score: 0.5156
+accuracy: 0.5694
+recall: 0.4583
+precision: 0.5893
+====================================================================================================
+content_name: corgi-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/corgi-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_corgi-facts.csv
+f1-score: 0.7273
+accuracy: 0.7155
+recall: 0.7586
+precision: 0.6984
+====================================================================================================
+content_name: otter-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/otter-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_otter-facts.csv
+f1-score: 0.2195
+accuracy: 0.3905
+recall: 0.1698
+precision: 0.3103
+====================================================================================================
+content_name: lobster-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/lobster-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_lobster-facts.csv
+f1-score: 0.5625
+accuracy: 0.57
+recall: 0.551
+precision: 0.5745
+====================================================================================================
+content_name: fish-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/fish-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_fish-facts.csv
+f1-score: 0.6963
+accuracy: 0.6204
+recall: 0.8704
+precision: 0.5802
+====================================================================================================
+content_name: bug-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/bug-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_bug-facts.csv
+f1-score: 0.4
+accuracy: 0.3459
+recall: 0.4328
+precision: 0.3718
+====================================================================================================
+content_name: megalodon-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/megalodon-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_megalodon-facts.csv
+f1-score: 0.3673
+accuracy: 0.504
+recall: 0.2857
+precision: 0.5143
+====================================================================================================
+content_name: lion-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/lion-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_lion-facts.csv
+f1-score: 0.5739
+accuracy: 0.6048
+recall: 0.5323
+precision: 0.6226
+====================================================================================================
+content_name: owl-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/owl-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_owl-facts.csv
+f1-score: 0.5269
+accuracy: 0.573
+recall: 0.4731
+precision: 0.5946
+====================================================================================================
+content_name: bat-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/bat-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_bat-facts.csv
+f1-score: 0.4571
+accuracy: 0.5333
+recall: 0.3916
+precision: 0.549
+====================================================================================================
+content_name: bee-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/bee-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_bee-facts.csv
+f1-score: 0.5349
+accuracy: 0.5161
+recall: 0.5565
+precision: 0.5149
+====================================================================================================
+content_name: tiger-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/tiger-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_tiger-facts.csv
+f1-score: 0.2642
+accuracy: 0.4583
+recall: 0.1944
+precision: 0.4118
+====================================================================================================
+content_name: monarch-butterfly-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/monarch-butterfly-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_monarch-butterfly-facts.csv
+f1-score: 0.698
+accuracy: 0.6121
+recall: 0.8966
+precision: 0.5714
+====================================================================================================
+content_name: killer-whale-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/killer-whale-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_killer-whale-facts.csv
+f1-score: 0.4364
+accuracy: 0.3861
+recall: 0.4706
+precision: 0.4068
+====================================================================================================
+content_name: horse-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/horse-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_horse-facts.csv
+f1-score: 0.4727
+accuracy: 0.6485
+recall: 0.3133
+precision: 0.963
+====================================================================================================
+content_name: bear-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/bear-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_bear-facts.csv
+f1-score: 0.598
+accuracy: 0.629
+recall: 0.5495
+precision: 0.6559
+====================================================================================================
+content_name: elephant-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/elephant-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_elephant-facts.csv
+f1-score: 0.5306
+accuracy: 0.5369
+recall: 0.52
+precision: 0.5417
+====================================================================================================
+content_name: dolphin-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/dolphin-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_dolphin-facts.csv
+f1-score: 0.5301
+accuracy: 0.6518
+recall: 0.3929
+precision: 0.8148
+====================================================================================================
+content_name: wolf-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/wolf-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_wolf-facts.csv
+f1-score: 0.7006
+accuracy: 0.6987
+recall: 0.7051
+precision: 0.6962
+====================================================================================================
+content_name: chihuahua-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/chihuahua-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_chihuahua-facts.csv
+f1-score: 0.5348
+accuracy: 0.5837
+recall: 0.4762
+precision: 0.6098
+====================================================================================================
+content_name: siberian-husky-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/siberian-husky-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_siberian-husky-facts.csv
+f1-score: 0.6624
+accuracy: 0.5395
+recall: 0.9035
+precision: 0.5228
+====================================================================================================
+content_name: whale-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/whale-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_whale-facts.csv
+f1-score: 0.4941
+accuracy: 0.5905
+recall: 0.3962
+precision: 0.6562
+====================================================================================================
+content_name: snake-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/snake-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_snake-facts.csv
+f1-score: 0.3694
+accuracy: 0.375
+recall: 0.3661
+precision: 0.3727
+====================================================================================================
+content_name: chicken-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/chicken-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_chicken-facts.csv
+f1-score: 0.6027
+accuracy: 0.5606
+recall: 0.6667
+precision: 0.55
+====================================================================================================
+content_name: monkey-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/monkey-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_monkey-facts.csv
+f1-score: 0.7079
+accuracy: 0.7174
+recall: 0.6848
+precision: 0.7326
+====================================================================================================
+content_name: camel-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/camel-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_camel-facts.csv
+f1-score: 0.6067
+accuracy: 0.65
+recall: 0.54
+precision: 0.6923
+====================================================================================================
+content_name: parasite-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/parasite-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_parasite-facts.csv
+f1-score: 0.6549
+accuracy: 0.6113
+recall: 0.7351
+precision: 0.5904
+====================================================================================================
+content_name: shark-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/shark-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/animals/query_shark-facts.csv
+f1-score: 0.6727
+accuracy: 0.7
+recall: 0.6167
+precision: 0.74
+====================================================================================================
+content_name: human-body-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/human-body-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/human-body/query_human-body-facts.csv
+f1-score: 0.6828
+accuracy: 0.6154
+recall: 0.8248
+precision: 0.5825
+====================================================================================================
+content_name: redhead-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/redhead-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/human-body/query_redhead-facts.csv
+f1-score: 0.6753
+accuracy: 0.6528
+recall: 0.7222
+precision: 0.6341
+====================================================================================================
+content_name: baby-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/baby-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/human-body/query_baby-facts.csv
+f1-score: 0.6282
+accuracy: 0.6184
+recall: 0.6447
+precision: 0.6125
+====================================================================================================
+content_name: sex-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/sex-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/human-body/query_sex-facts.csv
+f1-score: 0.6667
+accuracy: 0.6036
+recall: 0.7929
+precision: 0.5751
+====================================================================================================
+content_name: plant-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/plant-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/plants/query_plant-facts.csv
+f1-score: 0.634
+accuracy: 0.5399
+recall: 0.7971
+precision: 0.5263
+====================================================================================================
+content_name: sunflower-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/sunflower-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/plants/query_sunflower-facts.csv
+f1-score: 0.7011
+accuracy: 0.6414
+recall: 0.8356
+precision: 0.604
+====================================================================================================
+content_name: universe-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/universe-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_universe-facts.csv
+f1-score: 0.5469
+accuracy: 0.5747
+recall: 0.5115
+precision: 0.5877
+====================================================================================================
+content_name: saturn-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/saturn-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_saturn-facts.csv
+f1-score: 0.5556
+accuracy: 0.5248
+recall: 0.5882
+precision: 0.5263
+====================================================================================================
+content_name: jupiter-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/jupiter-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_jupiter-facts.csv
+f1-score: 0.537
+accuracy: 0.5238
+recall: 0.5472
+precision: 0.5273
+====================================================================================================
+content_name: moon-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/moon-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_moon-facts.csv
+f1-score: 0.5505
+accuracy: 0.5288
+recall: 0.5769
+precision: 0.5263
+====================================================================================================
+content_name: pluto-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/pluto-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_pluto-facts.csv
+f1-score: 0.6733
+accuracy: 0.67
+recall: 0.68
+precision: 0.6667
+====================================================================================================
+content_name: earth-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/earth-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_earth-facts.csv
+f1-score: 0.5269
+accuracy: 0.5533
+recall: 0.4949
+precision: 0.5632
+====================================================================================================
+content_name: northern-lights-facts-1
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/northern-lights-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.3611
+accuracy: 0.578
+recall: 0.2364
+precision: 0.7647
+====================================================================================================

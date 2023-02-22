@@ -1,0 +1,2328 @@
+content_name: las-vegas-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/las-vegas-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: barcelona-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/barcelona-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.497
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: city-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/city-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.498
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: london-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/london-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: berlin-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/berlin-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.495
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: new-york-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/new-york-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4978
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: galapagos-islands-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/galapagos-islands-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: pompeii-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/pompeii-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: paris-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/paris-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: tokyo-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/tokyo-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4977
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: venice-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/venice-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4956
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: costa-rica-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/costa-rica-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: ancient-egypt-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/ancient-egypt-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: nigeria-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/nigeria-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4974
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: pakistan-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/pakistan-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: ancient-rome-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/ancient-rome-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4991
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: panama-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/panama-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4897
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: scotland-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/scotland-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.495
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: portugal-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/portugal-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: ancient-greece-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/ancient-greece-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4904
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: country-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/country-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4984
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: russia-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/russia-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4975
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: afghanistan-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/afghanistan-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: north-korea-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/north-korea-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0253
+accuracy: 0.5064
+recall: 0.0128
+precision: 1.0
+====================================================================================================
+content_name: brazil-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/brazil-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: venezuela-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/venezuela-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: israel-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/israel-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4971
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: argentina-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/argentina-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4974
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: switzerland-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/switzerland-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4979
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: philippines-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/philippines-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: haiti-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/haiti-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4974
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: iceland-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/iceland-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4973
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: canada-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/canada-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: facts-about-greece
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/facts-about-greece.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: poland-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/poland-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: greenland-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/greenland-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4968
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: colombia-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/colombia-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4977
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: mexico-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/mexico-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4958
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: germany-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/germany-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4944
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: belgium-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/belgium-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0198
+accuracy: 0.505
+recall: 0.01
+precision: 1.0
+====================================================================================================
+content_name: ecuador-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/ecuador-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4969
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: spain-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/spain-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4983
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: egypt-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/egypt-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: honduras-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/honduras-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.497
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: sweden-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/sweden-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4984
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: japan-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/japan-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4983
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: turkey-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/turkey-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4974
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: hong-kong-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/hong-kong-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: iran-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/iran-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: italy-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/italy-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4922
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: bolivia-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/bolivia-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4975
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: south-korea-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/south-korea-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: china-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/china-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: denmark-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/denmark-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4984
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: singapore-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/singapore-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: norway-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/norway-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: new-zealand-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/new-zealand-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: vietnam-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/vietnam-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0137
+accuracy: 0.5017
+recall: 0.0069
+precision: 1.0
+====================================================================================================
+content_name: guatemala-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/guatemala-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4977
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: dominican-republic-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/dominican-republic-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0354
+accuracy: 0.5068
+recall: 0.018
+precision: 1.0
+====================================================================================================
+content_name: mongolia-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/mongolia-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4972
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: puerto-rico-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/puerto-rico-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4982
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: thailand-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/thailand-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.014
+accuracy: 0.5035
+recall: 0.007
+precision: 1.0
+====================================================================================================
+content_name: india-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/india-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: panama-canal-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/panama-canal-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: victoria-falls-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/victoria-falls-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: colosseum-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/colosseum-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: winchester-house-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/winchester-house-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4952
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: sydney-opera-house-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/sydney-opera-house-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: niagara-falls-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/niagara-falls-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: buckingham-palace-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/buckingham-palace-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.037
+accuracy: 0.5048
+recall: 0.0189
+precision: 1.0
+====================================================================================================
+content_name: big-ben-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/big-ben-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: stonehenge-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/stonehenge-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4952
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: eiffel-tower-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/eiffel-tower-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: area-51-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/area-51-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.49
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: statue-of-liberty-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/statue-of-liberty-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0208
+accuracy: 0.5026
+recall: 0.0105
+precision: 1.0
+====================================================================================================
+content_name: yellowstone-national-park-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/yellowstone-national-park-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: grand-canyon-national-park-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/grand-canyon-national-park-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0248
+accuracy: 0.5047
+recall: 0.0126
+precision: 1.0
+====================================================================================================
+content_name: burj-khalifa-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/burj-khalifa-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.029
+accuracy: 0.5074
+recall: 0.0147
+precision: 1.0
+====================================================================================================
+content_name: golden-gate-bridge-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/golden-gate-bridge-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4979
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: notre-dame-cathedral-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/notre-dame-cathedral-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: machu-picchu-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/machu-picchu-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: mount-rushmore-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/mount-rushmore-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0357
+accuracy: 0.5091
+recall: 0.0182
+precision: 1.0
+====================================================================================================
+content_name: virginia-plan-vs-new-jersey-plan
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/virginia-plan-vs-new-jersey-plan.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: nevada-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/nevada-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4985
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: new-hampshire-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/new-hampshire-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.497
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: south-carolina-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/south-carolina-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.497
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: new-york-state-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/new-york-state-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4982
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: nebraska-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/nebraska-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: ohio-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/ohio-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4945
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: maine-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/maine-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4968
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: missouri-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/missouri-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4977
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: minnesota-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/minnesota-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: wisconsin-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/wisconsin-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4972
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: michigan-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/michigan-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4984
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: maryland-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/maryland-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4968
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: kansas-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/kansas-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.498
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: indiana-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/indiana-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4966
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: rhode-island-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/rhode-island-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4961
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: virginia-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/virginia-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.495
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: north-carolina-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/north-carolina-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4977
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: illinois-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/illinois-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4981
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: new-mexico-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/new-mexico-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4967
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: us-states-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/us-states-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: oregon-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/oregon-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: texas-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/texas-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4965
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: pennsylvania-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/pennsylvania-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4975
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: connecticut-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/connecticut-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: louisiana-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/louisiana-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: hawaii-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/hawaii-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: alaska-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/alaska-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: kentucky-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/kentucky-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4959
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: montana-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/world/montana-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0179
+accuracy: 0.5023
+recall: 0.009
+precision: 1.0
+====================================================================================================
+content_name: biology-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/biology-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.494
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: bacteria-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/bacteria-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0323
+accuracy: 0.5041
+recall: 0.0164
+precision: 1.0
+====================================================================================================
+content_name: lithium-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/lithium-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: chemistry-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/chemistry-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.498
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: gold-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/gold-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: taiga-biomes-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/taiga-biomes-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4973
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: deforestation-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/deforestation-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4962
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: desert-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/desert-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4952
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: geography-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/geography-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4972
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: rainforest-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/rainforest-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4957
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: great-pacific-garbage-patch-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/great-pacific-garbage-patch-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4954
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: weather-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/weather-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: technology-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/technology-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: car-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/car-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: apollo-11-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/apollo-11-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: linkedin-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/linkedin-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4987
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: paypal-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/paypal-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: yahoo-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/yahoo-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4984
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: whatsapp-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/whatsapp-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4984
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: airbnb-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/airbnb-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: amazon-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/amazon-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4986
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: internet-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/science/internet-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: hispanic-culture-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/hispanic-culture-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4914
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: egyptian-gods-and-goddesses
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/egyptian-gods-and-goddesses.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4977
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: the-mayans-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/the-mayans-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4962
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: culture-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/culture-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: st-patricks-day-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/st-patricks-day-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4957
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: thanksgiving-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/thanksgiving-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: valentines-day-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/valentines-day-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4957
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: language-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/language-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: korean-war-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/korean-war-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: historical-events-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/historical-events-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4981
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: 911-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/911-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.495
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: ww2-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/ww2-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: boston-tea-party-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/boston-tea-party-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: pearl-harbor-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/pearl-harbor-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4972
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: auschwitz-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/auschwitz-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4954
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: 4th-of-july-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/4th-of-july-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4857
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: cinco-de-mayo-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/cinco-de-mayo-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: ww1-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/ww1-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4982
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: andre-the-giant-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/andre-the-giant-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: mother-teresa-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/mother-teresa-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: hades-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/hades-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0187
+accuracy: 0.5047
+recall: 0.0094
+precision: 1.0
+====================================================================================================
+content_name: hera-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/hera-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4922
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: jesus-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/jesus-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: people-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/people-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: oprah-winfrey-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/oprah-winfrey-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: julius-caesar-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/julius-caesar-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: william-shakespeare-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/william-shakespeare-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4977
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: florence-nightingale-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/florence-nightingale-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: bill-gates-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/bill-gates-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4974
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: alexander-the-great-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/alexander-the-great-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: michael-jackson-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/michael-jackson-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4974
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: neil-armstrong-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/neil-armstrong-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4954
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: george-washington-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/george-washington-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4952
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: marilyn-monroe-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/marilyn-monroe-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.49
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: cleopatra-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/cleopatra-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4974
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: the-beatles-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/the-beatles-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0132
+accuracy: 0.5017
+recall: 0.0066
+precision: 1.0
+====================================================================================================
+content_name: martin-luther-king-jr-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/martin-luther-king-jr-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: bruce-lee-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/bruce-lee-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: michael-jordan-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/michael-jordan-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: beethoven-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/beethoven-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: marie-curie-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/marie-curie-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: pablo-escobar-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/pablo-escobar-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: poseidon-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/poseidon-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: aphrodite-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/aphrodite-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4973
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: maya-angelou-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/maya-angelou-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: mozart-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/mozart-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.497
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: donald-trump-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/donald-trump-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4983
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: us-presidents-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/us-presidents-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4984
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: women-leaders-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/women-leaders-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4957
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: steve-jobs-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/steve-jobs-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4959
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: barack-obama-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/barack-obama-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.022
+accuracy: 0.5056
+recall: 0.0111
+precision: 1.0
+====================================================================================================
+content_name: confucius-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/confucius-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4954
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: pythagoras-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/pythagoras-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4957
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: buddhism-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/buddhism-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4974
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: bible-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/bible-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.495
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: easter-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/history/easter-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4973
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: entertainment-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/entertainment-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: my-cousin-vinny-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/my-cousin-vinny-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4952
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: friends-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/friends-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: star-wars-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/star-wars-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0204
+accuracy: 0.5
+recall: 0.0104
+precision: 0.5
+====================================================================================================
+content_name: christmas-songs
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/christmas-songs.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: tiktok-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/tiktok-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4974
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: rock-paper-scissors-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/rock-paper-scissors-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: lego-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/lego-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: disney-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/disney-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: spotify-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/spotify-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: netflix-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/netflix-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4986
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: harry-potter-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/harry-potter-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0135
+accuracy: 0.5017
+recall: 0.0068
+precision: 1.0
+====================================================================================================
+content_name: marvel-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/marvel-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: bts-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/bts-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: minecraft-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/minecraft-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4984
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: pokemon-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/pokemon-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4987
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: books-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/books-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4973
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: lord-of-the-rings-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/lord-of-the-rings-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4959
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: video-game-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/video-game-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: food-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/food-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4985
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: chocolate-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/chocolate-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0133
+accuracy: 0.5017
+recall: 0.0067
+precision: 1.0
+====================================================================================================
+content_name: strawberry-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/strawberry-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4957
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: nutella-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/nutella-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4957
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: watermelon-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/watermelon-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4959
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: cornflakes-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/cornflakes-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: breakfast-around-the-world
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/breakfast-around-the-world.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: pizza-hut-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/pizza-hut-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4984
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: starbucks-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/starbucks-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4985
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: beer-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/beer-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: mcdonalds-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/mcdonalds-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4983
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: coca-cola-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/coca-cola-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.496
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: pizza-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/pizza-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: ice-cream-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/ice-cream-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4954
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: avocado-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/avocado-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: pineapple-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/pineapple-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4954
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: coffee-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/coffee-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: wine-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/wine-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4981
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: egg-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/egg-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: health-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/health-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: sports-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/sports-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: soccer-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/soccer-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4974
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: basketball-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/basketball-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: baseball-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/baseball-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4987
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: espn-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/espn-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: golf-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/golf-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4961
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: running-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/lifestyle/running-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4983
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: little-red-flying-fox-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/little-red-flying-fox-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4907
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: types-of-starfish
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/types-of-starfish.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: black-bear-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/black-bear-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4952
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: hippo-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/hippo-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4966
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: cow-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/cow-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: red-tailed-hawk-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/red-tailed-hawk-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: pigeon-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/pigeon-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: animal-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/animal-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0126
+accuracy: 0.4984
+recall: 0.0064
+precision: 0.5
+====================================================================================================
+content_name: rabbit-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/rabbit-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4959
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: golden-retriever-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/golden-retriever-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4872
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: bobcat-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/bobcat-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: frog-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/frog-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4872
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: penguin-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/penguin-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4904
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: cat-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/cat-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0138
+accuracy: 0.5035
+recall: 0.0069
+precision: 1.0
+====================================================================================================
+content_name: corgi-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/corgi-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: otter-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/otter-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4952
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: lobster-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/lobster-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0268
+accuracy: 0.5051
+recall: 0.0136
+precision: 1.0
+====================================================================================================
+content_name: fish-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/fish-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: bug-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/bug-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.029
+accuracy: 0.4962
+recall: 0.0149
+precision: 0.5
+====================================================================================================
+content_name: megalodon-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/megalodon-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.496
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: lion-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/lion-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: owl-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/owl-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0206
+accuracy: 0.4865
+recall: 0.0108
+precision: 0.25
+====================================================================================================
+content_name: bat-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/bat-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4982
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: bee-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/bee-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.496
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: tiger-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/tiger-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: monarch-butterfly-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/monarch-butterfly-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: killer-whale-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/killer-whale-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.495
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: horse-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/horse-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.497
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: bear-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/bear-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0179
+accuracy: 0.5023
+recall: 0.009
+precision: 1.0
+====================================================================================================
+content_name: elephant-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/elephant-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4966
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: dolphin-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/dolphin-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4911
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: wolf-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/wolf-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: chihuahua-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/chihuahua-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4928
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: siberian-husky-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/siberian-husky-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: whale-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/whale-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4952
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: snake-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/snake-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0177
+accuracy: 0.5045
+recall: 0.0089
+precision: 1.0
+====================================================================================================
+content_name: chicken-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/chicken-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: monkey-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/monkey-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: camel-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/camel-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: parasite-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/parasite-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4983
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: shark-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/shark-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0328
+accuracy: 0.5083
+recall: 0.0167
+precision: 1.0
+====================================================================================================
+content_name: human-body-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/human-body-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4982
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: redhead-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/redhead-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: baby-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/baby-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: sex-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/sex-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4964
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: plant-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/plant-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: sunflower-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/sunflower-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4966
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: universe-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/universe-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0152
+accuracy: 0.5019
+recall: 0.0076
+precision: 1.0
+====================================================================================================
+content_name: saturn-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/saturn-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.495
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: jupiter-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/jupiter-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4952
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: moon-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/moon-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: pluto-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/pluto-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.5
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: earth-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/earth-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4975
+recall: 0.0
+precision: 0.0
+====================================================================================================
+content_name: northern-lights-facts
+test_data_path: /home/keonwoo/anaconda3/envs/crawl/crawler/test_data/nature/northern-lights-facts.csv
+content_query_path: /home/keonwoo/anaconda3/envs/crawl/crawler/query_output/nature/universe/query_northern-lights-facts.csv
+f1-score: 0.0
+accuracy: 0.4862
+recall: 0.0
+precision: 0.0
+====================================================================================================
