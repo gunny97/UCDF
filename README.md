@@ -1,7 +1,7 @@
 # User-defined Content Detection Framework	
 
 
-This is the official repository for our [User-defined Content Detection Framework], accepted on [NeurIPS 2022 Workshopt of InterNLP(Interactive Learning For Natural Langugage Processing)](https://internlp.github.io/2022/accepted_papers.html).
+This is the official repository for our [User-defined Content Detection Framework](https://internlp.github.io/2022/documents/2022/papers/8.pdf), accepted on [NeurIPS 2022 Workshopt of InterNLP(Interactive Learning For Natural Langugage Processing)](https://internlp.github.io/2022/accepted_papers.html). 
 We introdue a novel research topic, 'user-defined content detection' and propose **UCDF** to solve the task.
 UCDF is a set of framework to detect any kind of content that users have defined.
 We conducted an exmperiment utilizing a source code, https://github.com/facebookresearch/DPR(*DPR repo*), from facebookresearch. We modified the source code to adjust the experiment in this paper. 
