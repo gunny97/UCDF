@@ -5,7 +5,7 @@ This is the official repository for our [User-defined Content Detection Framewor
 We introdue a novel research topic, 'user-defined content detection' and propose **UCDF** to solve the task.
 UCDF is a set of framework to detect any kind of content that users have defined.
 
-If you want to reproduce this work, you should install dependencies based on  https://github.com/facebookresearch/DPR(*DPR repo*) and additional libraries follow requirements.txt. 
+If you want to reproduce this work, you should install dependencies based on  https://github.com/facebookresearch/DPR and additional libraries follow requirements.txt. 
 <p align="center">
   <img src="./ucdf_framework.PNG" width="80%" height="80%">
 </p>   
